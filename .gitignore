@@ -1,0 +1,4 @@
+bin/*.o
+bin/test
+bin/libpreload.so
+bin/test-link-bin
